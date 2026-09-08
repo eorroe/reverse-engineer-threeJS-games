@@ -1,0 +1,10 @@
+[
+  {
+    "src": "",
+    "text": "\nconsole.warn('Scripts \"build/three.js\" and \"build/three.min.js\" are deprecated with r150+, and will be removed with r160. Please use ES Modules or alternatives: https://threejs.org/docs/index.html#manual/en/introduction/Installation'),\n/**\n * @license\n * Copyright 2010-2023 Three.js Authors\n * SPDX-License-Identifier: MIT\n */\nfunction(t,e){\"object\"==typeof exports&&\"undefined\"!=typeof module?e(exports):\"function\"==typeof define&&define.amd?define([\"exports\"],e):e((t=\"undefined\"!=typeof globalTh"
+  },
+  {
+    "src": "",
+    "text": "\n'use strict';\n\nclass FlightModel {\n  constructor(random = Math.random) { this.random = random; this.limit=5.5; this.reset(-3); }\n  reset(x) {\n    this.x=x; this.y=0; this.vy=0; this.score=0; this.alive=true; this.distance=0;\n    this.gates=Array.from({length:6},(_,i)=>({x:x+5.9+i*4.45,center:i===0?.1:this.nextCenter(),passed:false}));\n  }\n  nextCenter() { return (this.random()-.5)*2.8; }\n  flap() { if(this.alive)this.vy=6.05; }\n  step(dt) {\n    if(!this.alive)return {hit:false,passed:0};\n    co"
+  }
+]
