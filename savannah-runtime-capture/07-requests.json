@@ -1,0 +1,1984 @@
+[
+  {
+    "url": "https://squall01337.github.io/savannah/",
+    "method": "GET",
+    "resourceType": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\""
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/ambience/river_stream.wav?savana-hash=c3366ac8176c0310edf72d0a5b912bd422a11d4e55dd033bdc9ea7eaad9cc5e7",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/ambience/savanna_day.wav?savana-hash=893e77db86587656e9953703295dcb7cf559718c3de34def636943c2724a7531",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/music/savannah_ambient_loop.wav?savana-hash=86d7d97176efd6a6cd4cfb546ce7f41d45c2d94e66c9530a43456bef9bdafb2f",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/footstep_grass_01.wav?savana-hash=496c5b81dde2d4fa7b4f8318a38a86a5657d79e94dc772b39f10c6d5ed641e65",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/footstep_grass_02.wav?savana-hash=8c7baf28800fa40bd9c2633c522c6ee66b7a085aa4ea7f6dd13ebdabe5ed84d9",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/footstep_grass_03.wav?savana-hash=1ba283c57b77e089eda4dc19c3330b3785a4bc51116ded2b558f08e99834ffea",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/lion_growl.wav?savana-hash=63461d6616bf3ba12cfd8b59426d906c3910172b66b4a86e913d87e9026d805a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/spear_ground.wav?savana-hash=33ac384f987785b05efa6223afe8f9fbf8f163f613668aefbdc4d571679cde3b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/spear_impact.wav?savana-hash=58b8303459771d57da89a7c01f1bef1476dbe6cf7bd7f79b0115800b5ed3887b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/sfx/spear_throw.wav?savana-hash=4088f09f69e8f6c57a2be4b24962817de959cd4224d94a3b4d2af1f1037af9f4",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/body_fall_01.wav?savana-hash=822ac6003142733f4097e002c5d25cc0c4b8181a79651e67770adef3c8574571",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/body_fall_02.wav?savana-hash=7fee85596599dd1d7a1bc5b0f788dc6df62e038a26f9f51be4617efd9e759991",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/buffalo_bovine_huff_01.wav?savana-hash=0b8805653df4dba28315b8da4becbe230f7339db8453d738a877ef11c5689a10",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/buffalo_bovine_huff_02.wav?savana-hash=e1629b45b7052c983224252c96861777c3a48eef0526285623c5faeacfc09abe",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/buffalo_bovine_huff_03.wav?savana-hash=26f2e50f5ba9b2d8a290bb8af8fe657619d34183fb1c41cd867ebfe184045180",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_drink.wav?savana-hash=743a80cc222c36254bdbb9d342372b67b3b5abd8b1346f29af0bdebb7206f825",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_roar_01.wav?savana-hash=7faecb470054e1f8847c35eb3143488e231d950c9862d7f449d4c03f2e0f4576",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_rumble_01.wav?savana-hash=76855e7d86b2e1ff83ddec07601563c4d38c526abd945ed53922e2539d3e2a8a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_rumble_02.wav?savana-hash=63773b117cc39f3c8b802ad558bf06b313667765fb55b9254c9d704f98a87536",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_rumble_03.wav?savana-hash=612cb3bb87e8d689b6e7382f07d4d0e62b15a5ddc8be1cd9221140bc707c9618",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_step_01.wav?savana-hash=4b7ccf88f13cfe3794726082f508d3cbdd485660f7968b37081867d11f9e53d2",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_step_02.wav?savana-hash=0322b1e49ef8751a1ae4c0bc22f21e5ca66a7565fc289b5bb35405aa4b956540",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/elephant_step_03.wav?savana-hash=72895d188d78b7bba86f78d6cd89502a9ec7634223ff7eae31561c74d4a1762e",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/giraffe_recorded_bursts.wav?savana-hash=4cf022696c8972d07193bb76b5faba243428178cd64f4e014560b8908ddab687",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/giraffe_recorded_grunt.wav?savana-hash=c72ce6b15afe0e7482eb0c73b31a7dbbe4f3c5b9b6d26fd1dd5fc47c5b5eb128",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/giraffe_recorded_snort.wav?savana-hash=53a5faa6f3abcf16860460941981f781ba1a0985f6a78f90a8a5796ccc4a9f09",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/graze.wav?savana-hash=1d3f755cd0f777a185cbc6dc840ee099b735d725b0fcdc640189c19b924e0c79",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/herbivore_drink.wav?savana-hash=0655d688e25bac79491fcb43aaeaa8eb14abef64716827185abb081a83871f2b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_splash_01.wav?savana-hash=95440aa4296c92b1d4cd062e7bc875a5e1e91a86f60c7163c8d7ff8d6fdff01a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_splash_02.wav?savana-hash=8a488c8b544897befede12c726aceff1eec0912772d6d25ce16314a3bfae3607",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_splash_03.wav?savana-hash=69ce93480c07103002d18bc9c0742ae5ff428a039bc75ea91b7509d5e191bbc7",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_step_01.wav?savana-hash=f46e5368e928403bf00b0943340354ab068e931473009c0f015bcf7e87eedb4a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_step_02.wav?savana-hash=a8a0cfcf4fb3a04017a57d61034cffbfbe209745efdaa8ce167159cc6f0ba18b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_step_03.wav?savana-hash=114cc35ceef0655099f93f6bb26a81796ce53273b270aa0474ceaaf305421df5",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/hoof_step_04.wav?savana-hash=235dceac32fd120cea9a2e5b5c9868446ac28dd9413cf7605fc9ce34724d6462",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/impala_snort_01.wav?savana-hash=8ae2c9077594377229b1dfa99475e94fcb5a93db8bb697d09cb4e43f3b42eb00",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/impala_snort_02.wav?savana-hash=2cce47a68dfff4a5a53f59df0143af1b1c8dd0a1b37238361428e9b16c849ac5",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/impala_snort_03.wav?savana-hash=209092cfa60537a53cc770b49f00fe9e413967455eeb5bbffd371209f4eb6bbe",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_attack.wav?savana-hash=068f7f93d3cf295942c1e67a66bd4095b6cc81bd3a3320a55ee69ea02b28ba4d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_drink.wav?savana-hash=46008a3284fb6e66137ac4c11d79dc16d77c8221a46547962bed611a93eb91c8",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_feed.wav?savana-hash=40c8b37b5d745806fab8b4f0511c14c7e7fbd914e1ea4d8cb4e5de8cdb6a3a70",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_field_roar_01.wav?savana-hash=b43c50276e8609c653bf844e7e0101770681811095e58e692684ba83bbe6e96f",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_field_roar_02.wav?savana-hash=34299a4bbd2949788e31f1a8ef2521f09009548b4d6088f8cdd56b918c3c7ddb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_grunt_01.wav?savana-hash=4ec108fd5ed3898eac5b213b63612d95b45772855b01694e96a7df5c0af7ecbe",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_grunt_02.wav?savana-hash=5fa46331bbc3ccf12d8e40bf7e9f6efc68ea0764d540268c89b5c4b742060589",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_grunt_03.wav?savana-hash=ccc2fe708f900695df72c0f6075f6235932d0f46993756e4a181d482b4dd1338",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/lion_hurt.wav?savana-hash=4a8c23ffd8158749e4198e7db861f1176567fffb619cdc83e45c9363c189ac44",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/paw_step_01.wav?savana-hash=5cf8f53127576f800edfb8ddc5226e171b63663115a3fd32e9a2d9e0bf891feb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/paw_step_02.wav?savana-hash=32c0405e7dabd6937a41b4539a09396ff48e8f96442f367086c500b815ee31ea",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/paw_step_03.wav?savana-hash=7a6396825674f12433d17fdddb7ffb63ac77f0b75153bdb04aca9163cfd5f260",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/zebra_bray.wav?savana-hash=99e4a3d0c95dce9eb8bec265d027a21ca9cc4e0ec12b4c36cf8dee9bdc1b5602",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/zebra_contact_01.wav?savana-hash=4a3aa678aaf524981b02bc9e04564689505e41796d4d2e34a24120245fcf2d10",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/audio/wildlife/zebra_contact_02.wav?savana-hash=346d3e00c3ce0bb4ab99cc772c71ecb28cf4f698618072644f169e03302fc5f3",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/buffalo.glb?savana-hash=744c3b00c8889d468aece0168408153fa29fe38a96575bd70cd1a4f62ce943ad",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/elephant.glb?savana-hash=cc083ea5b420aae0e6bfe4dffe29b9a7b4968707c4203112532dce3bf7c3ce6a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/gazelle.glb?savana-hash=b941a7ea58590dff22d8a1e5fb2d489001bb414f777c486aa8174720382060f9",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/giraffe.glb?savana-hash=92f7244b2f9ec2e5378bd944d86e01b75804488b29e49676a67bd9d8720de34d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/hunter.glb?savana-hash=1543245b3cd2b579c4988a5c8cbd155ea7d5bffe3a6f9668c55e421859425f71",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/lion.glb?savana-hash=33ddbf4717da0eb9d3cc15dbc1afb65422b6197e028b98a7c1de9594d2a9aed5",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/spear.glb?savana-hash=ab0e8f5e0094619a4503c6b6c013047d2e75ef375be4354ddea2b57a455a3e87",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/characters/zebra.glb?savana-hash=9b46f91d2290f62cb5e0e1fde836e2d30011b759ff5ef513638a3da480cecd99",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/bark_albedo.jpg?savana-hash=285051e34826ace29f4ab438ad35cc1201b2aae0a6157a5f3c0bf6667bbc539e",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/bark_ao.jpg?savana-hash=7efd7e23faf79d17cd906e542028020fac0aed0e0ef7f7b996ab3f980a417951",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/bark_normal.jpg?savana-hash=aaba4529c3167a7811b4dbf5b4327d054a166c2fc8ea08ebd249a2692adace41",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/bark_roughness.jpg?savana-hash=adafcab150c1ca99150c77198329e251437dc00fa1f66019f75624366926996e",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/cracked_mud_albedo.jpg?savana-hash=5e4cf51f8ce858a04e19228dc6e1f4956a47e0ee92efa684bd0079e326715b4c",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/cracked_mud_ao.jpg?savana-hash=a3fe4239b16fed9bbdfcd15d2f13b2567314fbe68eeaa41ceb1321f2b8e8ecdb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/cracked_mud_normal.jpg?savana-hash=2aa8f6415e900a1b5c5e0b8b75eed0f51013902d5511220dcc6e9b45e70239a4",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/cracked_mud_roughness.jpg?savana-hash=749d475320fa440a16d87a639e2fad41ef1b28cc268cdcd4e41557fb5870d005",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/lichen_albedo.jpg?savana-hash=f2ec7a10c6cb929653278e00dcfb0e7e07aea178136a37eac7478d2b9cdd5e96",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/lichen_ao.jpg?savana-hash=51519468a465b7143ba21ab23c772c050b524c47ff07d05fb9318d61116904ed",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/lichen_normal.jpg?savana-hash=89b28336282a07492080a20725d18c7649ae69b1d8e10187ffe143c804bd6d2c",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/lichen_roughness.jpg?savana-hash=ad8a3ffad3cc15e8781958179db56dbcc9c82b50021076a0068c9e62d494a4c2",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/mud_albedo.jpg?savana-hash=57a87dae26769677578ab53b8829fe9b1e4dfec1ae1726f2942ce99fc73f400b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/mud_ao.jpg?savana-hash=4ac0ed146a261a00fb6007844841395962304b7382e37c7ed2ca90d1b184d4a4",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/mud_normal.jpg?savana-hash=4d9ea1c9321618dbde7bdb2287fae85b646e4bd7b27c294a3475096d30b33880",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/mud_roughness.jpg?savana-hash=d4beda6f00e1d0bd431360037569cb7807c38a4f3a5102c256f3c24a4bc0e860",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/rock_albedo.jpg?savana-hash=774f50923f9c05c5011654bffc0f85240082c4b566393961c326ccbcb87e26c0",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/rock_ao.jpg?savana-hash=d6aa72e6f727d96956fd7f2a88c443820d7167a921fe84cda000ce4892a120fb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/rock_normal.jpg?savana-hash=d61980fe9b6a16c1b1ea6ce5214fdaa6a868f741156d136d86b441ff99136441",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/rock_roughness.jpg?savana-hash=d10a68f4e106bf2ca98acbe1028947d8bc16948003f62d1bddd4c99c72c80ff5",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/savanna_sky_2k.hdr?savana-hash=5244534e9cf5b606f2ff513aa00ddb161b0a4826ffd88a0d3bd03ac29247d198",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/soil_albedo.jpg?savana-hash=b6f927896afeaf7f39fc54dbe08de6a4198ccc68e7e996eaece00e2d06f21261",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/soil_ao.jpg?savana-hash=dd8182d2461c13f62d18cad76d7769cc82bd4562f5de9354df0409cee73f1533",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/soil_normal.jpg?savana-hash=72031698aa65fe0ed7caabd3ecef02ac09bb5b23e6ea262fdad7a2f53f874342",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/textures/soil_roughness.jpg?savana-hash=8bfc602c2933a69e84eda2e0ec0c42fa2414956e8d54e47ab1922e264dd4fcfd",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/acacia_01.bin?savana-hash=f95bcfa2622414d44b4ddce8905b467c329d52fb74937915b3290f850c90a1de",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/acacia_02.bin?savana-hash=2d1922f410a75278cad8f6c0a5ff30d5e43abb780db4fd6c799c73ddf14cc7a2",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/acacia_03.bin?savana-hash=5cc7769103d603bbdf87310421591c2976e9bea879b53298dc827b5feddc7d42",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/acacia_sapling.bin?savana-hash=a3f6703ac22ca007cff061a672d934d40f560971caddc6729061d28ded7243d3",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/baobab_01.bin?savana-hash=b7a58bef3d176d27747c8f7ce75201d052bca6c9f4e54fa168ac882c4d169f12",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/cloud-noise.bin?savana-hash=8cfd87c0453a9769bd819d16898d8b1b9372f909ab0d5c33a632ec6ad1f984bf",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/exposed_roots.bin?savana-hash=e877ff7ddbd8fcb7c8dcdcc6747ed5136af91e720bb8411c760500d9d7ae204b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/fallen_log.bin?savana-hash=13d98367a1e72e3e6376378da08e441ac2f001541fcaa5960c497aed3e5c5be4",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/Fine_fallen_leaves.bin?savana-hash=3b559a89a71d85596f978abfbf49e6e75e87c1a805dfc256b6ac35c3ce1d1dff",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/Fine_fallen_straw.bin?savana-hash=d3bd06bb6d8c7a30ea82c9d47abb3706d8185bfa283d91351059dbfe6ee77286",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/Fine_gravel.bin?savana-hash=4ddbb6a6e5ec6b8b7456f33cd611c381d5d54d4b5303368b7fc7eebfaa5ad6c6",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/grass_dry_02.bin?savana-hash=519721f961d1efd722902345770a950cdd9a26bb16e5170fae837869bcf4b779",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/grass_dry.bin?savana-hash=32f78436a2ce1f1acc70304d42e203e2ab99e7047caa80f77de5a1160aae19f8",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/grass_green.bin?savana-hash=4b8a5efb78b0e47701c6d9d66540ab6ed5adfc94a27ed9781277c967bd11de5c",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/Grass_meadow.bin?savana-hash=99bb8525f7098e02edddd74980c9e008b0b5f3cddab7badd40f1e6d22296c25d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/Grass_Tussock.bin?savana-hash=187e39fea50a0bdbf0fdfb9dee73e43926b483c95735c38625d02bd554b2a04e",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/height.bin?savana-hash=5b03b1bc7323a55a2d39bdadcbe0ed9359bcd193154c57fd5d200b51f1323d80",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/landscape.glb?savana-hash=7e7c332d151ef8e9904819522dceb2f6749598f7f78707b3711c3e7a0fb79f42",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/leaf_litter.bin?savana-hash=a649997cfb9478c6b7bec395cf35d2db3b5a184a5d2cbce144bf00d16532aca5",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/prototypes.13406ad0d9e44455.0.bin?savana-hash=01edfecf07419b053190cef0c994b595e8d50d9d2e90bc8439d488de270761f6",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/prototypes.13406ad0d9e44455.1.bin?savana-hash=6c48776abeed0e47156c45b73a86ea21b108c31bc2db1c7c5695ff5df317b605",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/prototypes.13406ad0d9e44455.2.bin?savana-hash=5c6814db9e877a2079a7811853c87c23fbdc183f19587b69b4d5756f8d7d4c5d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/river_fern.bin?savana-hash=89ced862400806277399b5e446ce9887df9358901323d85bf32a22c2ed7c65e3",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/river_reeds.bin?savana-hash=58439f7db39e13e5f5c282620a98c82ada943a97b910b3e1fb3d0d8f7edded5a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/rock_01.bin?savana-hash=f1aff406f70dff222e26199ba6575d9fe6fe46260cfe9b479a6512a3b3510887",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/rock_02.bin?savana-hash=54fee2d66646fe7f07fb46a4caf5a73c038ee4b1001eaa919a63ad965147de43",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/rock_03.bin?savana-hash=7cd2e9ab870b92dfb6bd867dc6cf69a44de0ca3d95baa8738aac67feeb7a7eb7",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/rock_04.bin?savana-hash=34654633aaf52d0fffeea30857d78dd8d4292f978315746b7b9ec3e40dde9fee",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/termite_mound.bin?savana-hash=9c186e095a5fb00b28963ce38fcf12df5c14622bb2c9f0124cb238e50ee6ecd0",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/thorn_bush_02.bin?savana-hash=592e43b049e2c21cc9225107348b269bfdffd0250db7b25f2189475e0463dc4e",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/thorn_bush.bin?savana-hash=53c748bd644a344ba67f1646d2322972e8a886c0b5f64776409cd3e143573eea",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://squall01337.github.io/savannah/assets/world/wildflowers.bin?savana-hash=160af78212cd1f51ce4de47839b5e83ef3aba29ebc1913dd85bf994253138bc2",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://squall01337.github.io/savannah/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/1115633d-e5b4-4f51-ad94-e5885a1bacbc",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/7f06f0e3-19bd-4a5e-a6d0-0c145530ff56",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/84ab4564-6c37-4c09-894f-be7f45a822a9",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/0785b67f-9975-435b-81d3-373460157d04",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2ecfb743-8481-48ba-a346-27e52f1a52b9",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/772174a3-0a0c-487c-9390-3435eee37064",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/3be8eb37-b4ce-453a-971b-479e389ab8ba",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/46acd18a-483c-4e95-aa89-bba7a1006fe4",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/695635ca-84db-4443-816d-df54b7dd09e8",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2c602cd8-8593-483a-a364-d09e94d0c4a2",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/ad220a1f-364c-4345-82ea-61a35569dd09",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/b7a7d07d-440c-4db9-9737-6b5f21972ab2",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/912240f8-b271-44cc-996a-ce56890f7baf",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/39cf50e8-c8c9-479b-a5d8-083ef57164a1",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/86470a0d-fe44-4cc0-87ce-3f0f0ba88b3f",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/cbd07948-dada-4c00-9e39-2a1e6ed0256a",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "origin": "https://squall01337.github.io",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/621c9358-db7a-4d25-b812-57b347796217",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/9a055174-7a19-446a-8dd7-18923184a7cd",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/6cbce730-73f0-497b-99f7-d20f9d239fa7",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/657d55c7-8a25-48f7-b5cb-3c6ae660efc6",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2e975da2-457d-40a9-abb3-9bdb091a36e1",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/a1baf6ad-552c-4ad1-8a64-1ac20212de14",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/92f883c8-dcc2-417c-89e7-5f9bbb18a7c6",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/7ae32c01-8815-47d2-9656-f72cde0b434d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/3ef7158a-5b5e-40e0-b306-0f919b2c835d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/80338df7-029c-44f5-8f57-c0e01bd8c978",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/dc7cf90a-37f4-4330-8c08-418f1d258f44",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/670dda16-9fbd-4c22-b043-8b620a27a9f3",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/9867570a-5b9a-42e3-864c-9926d2f703db",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/53f0ee0e-d8bc-409d-8042-97486bbf2af6",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/18d1daf6-a6cc-439b-bd92-21740a315703",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/8ab2ddea-f993-4bbe-9134-b5e06b8f1986",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/047afd01-fec6-4b83-a8d8-8998cd13b9d4",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/d0f7bef5-4831-4c12-a1f2-9ec7afd1bb74",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/5291c9b4-b864-4d37-82fe-0052c29c413a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/4972be63-edaa-4a63-80ec-8b3c72e87bb5",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/003ac686-0b41-4ada-b842-fd14720881f1",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/4fc57ef8-baff-4cc7-9a7d-7a562f2889fa",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/58677d58-9efc-42ab-af3c-320f1c250d60",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2ac4ae5e-0ef8-4d25-8e9f-26f14d655b6a",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/1afb6ca3-c816-4cb0-bcbc-ec821e3f5d83",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/4e13b2dc-27e7-4f50-af42-2ff7c2e8f315",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/93b35be4-b8e4-4f9a-9b15-6982fa2bafb8",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2d0b8aa6-963c-48cf-885a-a5b76de361ca",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2de7e640-c8d3-45a7-a727-86b96477e16b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/2ce84f56-7284-43b0-be53-06e1b820476f",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/eb005c94-5b47-46a3-b4a4-6d88e894bf07",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/862785a5-e6a6-440c-9ce9-b0f801edd687",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/a818d7d3-8dfc-49bb-b421-b883e5b28695",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/be678cd6-c7e5-49c5-8b21-128f32bd6bff",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/4c79aabd-81dc-49b1-8bea-78a9ff6e0bee",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/c6435c71-7050-4f5f-8a61-fad16012064b",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/53d6ed7b-86be-45bb-801c-2b567711985d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/fe441138-2a6a-4532-a7df-abe080e7ae51",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/f0102dea-e13e-42ef-8110-5ad2fa09506d",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/cde6e164-b2f3-45d0-a3d4-eeeddd22fc84",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/0bfe53e6-92d3-4393-b791-6a5623cb2254",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/850dc455-4507-492e-911c-fc952b6d0bcc",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/3b8d09ac-b94e-4afc-8b63-989c21eeebd3",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  },
+  {
+    "url": "blob:https://squall01337.github.io/7a4ea4e4-d19e-40cb-bd7c-eb9efd0aabd1",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "referer": ""
+    }
+  }
+]

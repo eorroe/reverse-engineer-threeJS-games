@@ -1,0 +1,10 @@
+[
+  {
+    "type": "warning",
+    "text": "RGBELoader has been deprecated. Please use HDRLoader instead."
+  },
+  {
+    "type": "warning",
+    "text": "THREE.WebGLRenderer: KHR_parallel_shader_compile extension not supported."
+  }
+]

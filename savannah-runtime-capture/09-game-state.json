@@ -1,0 +1,43 @@
+{
+  "hasWindowGame": true,
+  "hasWindowSavana": true,
+  "gameKeys": [
+    "scene",
+    "camera",
+    "renderer",
+    "world",
+    "onPrompt",
+    "onState",
+    "onEvent",
+    "density",
+    "animals",
+    "events",
+    "errors",
+    "loaded",
+    "disposed",
+    "running",
+    "elapsed",
+    "emitTimer",
+    "prompt",
+    "lastMessage",
+    "messageTimer",
+    "ready",
+    "debug",
+    "assetInfo",
+    "spear",
+    "player"
+  ],
+  "savanaKeys": [
+    "scene",
+    "camera",
+    "renderer",
+    "world",
+    "metrics",
+    "game",
+    "frameTimes",
+    "photo",
+    "resetMetrics",
+    "setCamera",
+    "setAO"
+  ]
+}
