@@ -1,0 +1,11 @@
+{
+  "title": "EXILIUM",
+  "description": null,
+  "viewport": "width=device-width,initial-scale=1,user-scalable=no",
+  "canvasSize": {
+    "width": 300,
+    "height": 150
+  },
+  "bodyClasses": "",
+  "bodyAttrs": {}
+}

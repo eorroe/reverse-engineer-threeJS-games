@@ -1,0 +1,54 @@
+{
+  "BODY": {
+    "display": "block",
+    "position": "static",
+    "width": "1920px",
+    "height": "1080px",
+    "background": "rgb(5, 6, 10) none repeat scroll 0% 0% / auto padding-box border-box",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "\"Trajan Pro\", Cinzel, Georgia, serif",
+    "overflow": "hidden",
+    "zIndex": "auto",
+    "opacity": "1",
+    "pointerEvents": "auto"
+  },
+  "viewport": {
+    "display": "block",
+    "position": "fixed",
+    "width": "1920px",
+    "height": "1080px",
+    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "\"Trajan Pro\", Cinzel, Georgia, serif",
+    "overflow": "clip",
+    "zIndex": "auto",
+    "opacity": "1",
+    "pointerEvents": "auto"
+  },
+  "ui-root": {
+    "display": "block",
+    "position": "fixed",
+    "width": "1920px",
+    "height": "1080px",
+    "background": "rgba(0, 0, 0, 0) none repeat scroll 0% 0% / auto padding-box border-box",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "\"Trajan Pro\", Cinzel, Georgia, serif",
+    "overflow": "visible",
+    "zIndex": "10",
+    "opacity": "1",
+    "pointerEvents": "none"
+  },
+  "boot": {
+    "display": "flex",
+    "position": "fixed",
+    "width": "1920px",
+    "height": "1080px",
+    "background": "rgb(5, 6, 10) none repeat scroll 0% 0% / auto padding-box border-box",
+    "color": "rgb(255, 255, 255)",
+    "fontFamily": "\"Trajan Pro\", Cinzel, Georgia, serif",
+    "overflow": "visible",
+    "zIndex": "100",
+    "opacity": "1",
+    "pointerEvents": "auto"
+  }
+}
