@@ -1,0 +1,151 @@
+[
+  {
+    "url": "https://dream-loop-demo.anshu.dev/",
+    "method": "GET",
+    "resourceType": "document",
+    "headers": {
+      "upgrade-insecure-requests": "1",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0",
+      "sec-ch-ua-platform": "\"Linux\""
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/assets/index-BNaWXp55.js",
+    "method": "GET",
+    "resourceType": "script",
+    "headers": {
+      "origin": "https://dream-loop-demo.anshu.dev",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/assets/index-tMzt-8Bc.css",
+    "method": "GET",
+    "resourceType": "stylesheet",
+    "headers": {
+      "origin": "https://dream-loop-demo.anshu.dev",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/stone.png",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "origin": "https://dream-loop-demo.anshu.dev",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/stone-normal.png",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "origin": "https://dream-loop-demo.anshu.dev",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/tree.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/cathedral.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/courtyard-floor.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/cloister.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/ivy-leaf.png",
+    "method": "GET",
+    "resourceType": "image",
+    "headers": {
+      "origin": "https://dream-loop-demo.anshu.dev",
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/fountain.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://dream-loop-demo.anshu.dev/fallen-column.glb",
+    "method": "GET",
+    "resourceType": "fetch",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://dream-loop-demo.anshu.dev/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "sec-ch-ua-mobile": "?0"
+    }
+  }
+]
