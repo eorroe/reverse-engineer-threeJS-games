@@ -1,0 +1,15 @@
+/* Entire soundtrack and sound effects synthesized at runtime. */
+'use strict';
+(() => {
+  class AudioEngine {
+    constructor(){this.enabled=false;this.ctx=null;this.nextBeat=0;this.beat=0;this.master=null;this.wind=null;}
+    init(){if(this.ctx)return;const C=window.AudioContext||window.webkitAudioContext;if(!C)return;this.ctx=new C();this.master=this.ctx.createGain();this.master.gain.value=.0;this.master.connect(this.ctx.destination);
+      const n=this.ctx.sampleRate*3,b=this.ctx.createBuffer(1,n,this.ctx.sampleRate),d=b.getChannelData(0);let last=0;for(let i=0;i<n;i++){last=(last+(Math.random()*2-1)*.025)/1.025;d[i]=last;}const source=this.ctx.createBufferSource();source.buffer=b;source.loop=true;const filter=this.ctx.createBiquadFilter();filter.type='lowpass';filter.frequency.value=580;const gain=this.ctx.createGain();gain.gain.value=.34;source.connect(filter);filter.connect(gain);gain.connect(this.master);source.start();this.wind=gain;
+    }
+    async toggle(force){try{this.init();if(!this.ctx)return false;await this.ctx.resume();this.enabled=typeof force==='boolean'?force:!this.enabled;this.master.gain.setTargetAtTime(this.enabled?.25:0,this.ctx.currentTime,.2);this.nextBeat=this.ctx.currentTime+.1;return this.enabled;}catch(_){return false;}}
+    tone(freq,duration=.2,type='sine',vol=.25,when=0,slide=0){if(!this.ctx||!this.enabled)return;const t=this.ctx.currentTime+when,o=this.ctx.createOscillator(),g=this.ctx.createGain();o.type=type;o.frequency.setValueAtTime(freq,t);if(slide)o.frequency.exponentialRampToValueAtTime(slide,t+duration);g.gain.setValueAtTime(0,t);g.gain.linearRampToValueAtTime(vol,t+.008);g.gain.exponentialRampToValueAtTime(.001,t+duration);o.connect(g);g.connect(this.master);o.start(t);o.stop(t+duration+.02);}
+    sfx(name,n=0){if(name==='fish'){this.tone(650+n%7*72,.16,'sine',.3);this.tone(1300+n%7*80,.18,'triangle',.12,.045);}if(name==='jump')this.tone(230,.23,'sine',.22,0,610);if(name==='duck')this.tone(400,.18,'triangle',.13,0,130);if(name==='hit'){this.tone(110,.3,'sawtooth',.18,0,40);this.tone(76,.3,'sine',.3);}if(name==='boost'){[0,4,7,12,16].forEach((n,i)=>this.tone(220*2**(n/12),.7,'triangle',.18,i*.065));}if(name==='start'){[0,4,7,12].forEach((n,i)=>this.tone(330*2**(n/12),.4,'sine',.22,i*.1));}if(name==='over'){[7,4,0,-5].forEach((n,i)=>this.tone(220*2**(n/12),.5,'triangle',.16,i*.17));}}
+    update(playing,boost){if(!this.ctx||!this.enabled)return;const now=this.ctx.currentTime;this.wind.gain.setTargetAtTime(boost?.6:playing?.34:.2,now,.5);if(now<this.nextBeat)return;if(now-this.nextBeat>1)this.nextBeat=now;const scale=[0,4,7,11,12,7,4,2],chord=Math.floor(this.beat/16)%4,roots=[130.81,110,87.31,98],root=roots[chord];if(this.beat%4===0)this.tone(root,.8,'sine',.11);if(this.beat%2===0)this.tone(root*2**(scale[(this.beat/2)%8]/12)*2,.55,'sine',.085);if(playing&&this.beat%2===0)this.tone(this.beat%4?120:65,.09,'sine',.1,0,35);this.beat++;this.nextBeat+=.27;}
+  }
+  PP.AudioEngine=AudioEngine;
+})();
