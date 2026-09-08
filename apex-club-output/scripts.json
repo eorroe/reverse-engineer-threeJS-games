@@ -1,0 +1,10 @@
+[
+  {
+    "src": "",
+    "text": "{\"imports\":{\"three\":\"./vendor/three/build/three.module.min.js?v=707734418ffc\",\"three/addons/\":\"./vendor/three/examples/jsm/\"}}"
+  },
+  {
+    "src": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/bootstrap.js?v=707734418ffc",
+    "text": null
+  }
+]

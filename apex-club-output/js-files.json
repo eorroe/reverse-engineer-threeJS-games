@@ -1,0 +1,90 @@
+[
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/bootstrap.js?v=707734418ffc",
+    "length": 289
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/game.js?v=707734418ffc",
+    "length": 49317
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/mobile-controls.js?v=707734418ffc",
+    "length": 7399
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/armored-kart.js?v=707734418ffc",
+    "length": 11346
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/race-audio.js?v=707734418ffc",
+    "length": 2045
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/race-effects.js?v=707734418ffc",
+    "length": 5224
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/driver-studio.js?v=707734418ffc",
+    "length": 10193
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/driving-model.js?v=707734418ffc",
+    "length": 3373
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/kart-catalog.js?v=707734418ffc",
+    "length": 1610
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/race-rules.js?v=707734418ffc",
+    "length": 2569
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/build/three.module.min.js?v=707734418ffc",
+    "length": 338836
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/EffectComposer.js",
+    "length": 8477
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/RenderPass.js",
+    "length": 4112
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/UnrealBloomPass.js",
+    "length": 14388
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/OutputPass.js",
+    "length": 4029
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/build/three.core.min.js",
+    "length": 380374
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/ShaderPass.js",
+    "length": 3228
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/shaders/CopyShader.js",
+    "length": 729
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/Pass.js",
+    "length": 4218
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/postprocessing/MaskPass.js",
+    "length": 4694
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/shaders/LuminosityHighPassShader.js",
+    "length": 1291
+  },
+  {
+    "url": "https://apex-club-racing.mauve-ibex-1793.chatgpt.site/vendor/three/examples/jsm/shaders/OutputShader.js",
+    "length": 1876
+  }
+]
