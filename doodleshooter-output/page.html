@@ -1,0 +1,80 @@
+<!DOCTYPE html><html lang="en"><head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Doodle District</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link href="https://fonts.googleapis.com/css2?family=Patrick+Hand&amp;family=Caveat:wght@600&amp;display=swap" rel="stylesheet">
+<link rel="stylesheet" href="./style.A4A8BF44.css">
+<script type="importmap">
+{ "imports": {
+  "three": "https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js",
+  "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/"
+} }
+</script>
+</head>
+<body>
+<canvas id="c" data-engine="three.js r170" width="1280" height="720"></canvas>
+<div id="hud" class="nogame">
+      <div class="scope" id="scope"><div class="mask"></div><div class="ring"></div><div class="cx"></div><div class="cy"></div><div class="dot"></div></div>
+      <div class="focus-meter" id="focusmeter"><div class="fm-label">KATANA</div><div class="fm-tube"><div class="fm-fill" id="fmfill"></div><i class="fm-f1"></i><i class="fm-f2"></i><i class="fm-f3"></i></div><div class="fm-ready" id="fmready">SLASH READY</div></div>
+      <div class="focus-mark" id="focusmark"><i></i><i></i><i></i><i></i></div>
+      <div class="crosshair" id="crosshair" style="--s: 19.4px;"><i class="ch-t"></i><i class="ch-b"></i><i class="ch-l"></i><i class="ch-r"></i><i class="ch-dot"></i></div>
+      <div class="grapple-ret" id="gret"></div><div class="gstam" id="gstam" hidden=""><i id="gstamfill"></i></div>
+      <div class="hitmarker" id="hitmarker"><i></i><i></i></div>
+      <div class="dmg-ind" id="dmg"></div>
+      <div class="hud-tl"><div class="score">SCORE <b id="score">0</b></div><div class="combo" id="combo"></div></div>
+      <div class="hud-tr"><div class="wave">WAVE <b id="wave">1</b></div><div class="modifier" id="modifier"></div><div class="left"><b id="left">0</b> enemies left</div><div class="timer" id="timer"></div><div class="pvpscore" id="pvpscore" hidden=""></div></div><div class="board" id="board" hidden=""></div>
+      <div class="bossbar" id="bossbar"><div class="bossname" id="bossname"></div><div class="bar big"><div class="fill red" id="bossfill"></div></div></div>
+      <div class="hud-bl">
+        <div class="health"><span>HP</span><div class="bar"><div class="fill" id="hpfill" style="width: 100%;"></div></div><span id="hpnum">120</span></div>
+        <div class="ammo"><b id="mag">35</b><span id="reserve">/175</span><span class="reloading" id="reloading"></span><span class="nades" id="nades" title="grenades"><i></i><i></i><i></i></span></div>
+        <div class="tally" id="tally"><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i><i></i></div>
+      </div>
+      <div class="hud-br"><div class="slots" id="slots"><div class="slot active"><span class="num">1</span>RIFLE<span class="sammo">35/175</span></div><div class="slot"><span class="num">2</span>SHOTGUN<span class="sammo">6/36</span></div><div class="slot"><span class="num">3</span>SNIPER<span class="sammo">5/25</span></div><div class="slot"><span class="num">4</span>KATANA<span class="sammo">∞</span></div></div><div class="weapon" id="weapon">RIFLE</div><div class="hint" id="hint">auto · put the red dot on them</div></div>
+      <div class="tip" id="tip"></div>
+      <div class="message"><div class="msg-main" id="msg"></div><div class="msg-sub" id="msgsub"></div></div>
+      <div class="killfeed" id="killfeed"></div>
+      <div class="screen show" id="screen"><div class="panel" id="panel"><h1>DOODLE DISTRICT</h1><h2>a scribbled survival shooter</h2>
+    <div class="mainbtns"><button type="button" class="start" id="soloBtn">START<i>solo · survive the waves</i></button><button type="button" id="onlineBtn">PLAY ONLINE<i>free for all · up to 10 players</i></button></div>
+    <div class="mapsel" id="mapsel"><span>map</span><button type="button" class="mapbtn on" data-map="district">DOODLE DISTRICT<i>streets, rooftops and fire escapes</i></button><button type="button" class="mapbtn" data-map="jungle">DOODLE JUNGLE<i>canopies, vines and a lost temple</i></button></div>
+<div class="cols">
+  <div><div class="colhead">MOUSE + KEYBOARD</div>
+    <div class="tpoff"><b>WASD</b> move &nbsp; <b>Mouse</b> look &nbsp; <b>Shift</b> sprint</div>
+    <div class="tpon"><b>WASD</b> move &nbsp; <b>Mouse</b> look &nbsp; <b>W W</b> sprint</div>
+    <div class="tpoff"><b>LMB</b> fire / slash &nbsp; <b>RMB</b> aim down sights / block</div>
+    <div class="tpon"><b>LMB</b> fire / slash &nbsp; <b>Shift</b> (or RMB) aim / block</div>
+    <div><b>Space</b> jump (again on a wall = wall jump)</div>
+    <div><b>Space</b> again in the air = double jump</div>
+    <div><b>C / Ctrl</b> slide on the ground · air dash in the air</div>
+    <div><b>Q / E</b> grapple: tap to swing, hold to reel, jump to launch</div>
+    <div><b>F</b> quick katana slash &nbsp; <b>R</b> reload &nbsp; <b>M</b> music</div>
+    <div><b>G</b> grenade · hold it to throw further</div>
+    <div><b>Tab</b> scoreboard (online) &nbsp; <b>Esc</b> pause</div>
+    <div><b>Both mouse buttons</b> dash-slash once the gauge is lit</div>
+    <div><b>1-4 / wheel</b> rifle · shotgun · sniper · katana</div>
+  </div>
+  <div><div class="colhead">PS5 CONTROLLER</div>
+    <div><b>L stick</b> move &nbsp; <b>R stick</b> look &nbsp; <b>L3</b> sprint</div>
+    <div><b>R2</b> fire / slash &nbsp; <b>L2</b> aim / block</div>
+    <div><b>✕</b> jump &nbsp; <b>○</b> slide · air dash</div>
+    <div><b>L1</b> grapple (hold to reel, ✕ to launch)</div>
+    <div><b>L2 + R2</b> dash-slash once the katana gauge is lit</div>
+    <div><b>R1</b> quick katana slash, then back to your gun</div>
+    <div><b>□</b> reload &nbsp; <b>△</b> next weapon</div>
+    <div><b>R3 / d-pad up</b> grenade · hold to throw further</div>
+    <div><b>Create</b> scoreboard (online) &nbsp; <b>Options</b> pause</div>
+  </div>
+</div><div class="settings" id="settings">
+    <label>look sensitivity <input type="range" id="setSens" min="25" max="250" step="5" value="100"><b id="setSensV">100%</b></label>
+    <label><input type="checkbox" id="setInv"> invert vertical look</label>
+    <label><input type="checkbox" id="setTrack"> trackpad mode <span class="k">Shift aims · double-tap W sprints</span></label>
+    <label><input type="checkbox" id="setMus" checked=""> music <span class="k">(M)</span></label>
+  </div></div><div class="codebox" id="codebox"><input type="text" id="devCode" placeholder="enter code here" maxlength="24" autocomplete="off" spellcheck="false"></div></div></div>
+<script src="https://cdn.jsdelivr.net/npm/peerjs@1.5.4/dist/peerjs.min.js"></script>
+<script type="module" src="./game.7LCERBLR.js"></script>
+<!-- Vercel Web Analytics: collects page views once Analytics is enabled on the project; harmless elsewhere -->
+<script>window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };</script>
+<script defer="" src="/_vercel/insights/script.js"></script>
+
+
+</body></html>

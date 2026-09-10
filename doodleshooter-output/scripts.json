@@ -1,0 +1,27 @@
+[
+  {
+    "src": null,
+    "textContent": "\n{ \"imports\": {\n  \"three\": \"https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js\",\n  \"three/addons/\": \"https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/\"\n} }\n",
+    "type": "importmap"
+  },
+  {
+    "src": "https://cdn.jsdelivr.net/npm/peerjs@1.5.4/dist/peerjs.min.js",
+    "textContent": null,
+    "type": "text/javascript"
+  },
+  {
+    "src": "https://doodleshooter.vercel.app/game.7LCERBLR.js",
+    "textContent": null,
+    "type": "module"
+  },
+  {
+    "src": null,
+    "textContent": "window.va = window.va || function () { (window.vaq = window.vaq || []).push(arguments); };",
+    "type": "text/javascript"
+  },
+  {
+    "src": "https://doodleshooter.vercel.app/_vercel/insights/script.js",
+    "textContent": null,
+    "type": "text/javascript"
+  }
+]
