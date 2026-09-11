@@ -1,0 +1,52 @@
+<!DOCTYPE html><html lang="en"><head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="theme-color" content="#141e20">
+    <meta name="description" content="An automatic ODM runner. Left and right to dodge, Space to vault or strike. Fly through a cinematic medieval city.">
+    <title>Wings of Freedom — Levi Skyrun</title>
+    <script type="module" crossorigin="" src="./assets/game-DlSeIJHS.js"></script>
+    <link rel="modulepreload" crossorigin="" href="./assets/three-CUlnwgna.js">
+    <link rel="modulepreload" crossorigin="" href="./assets/TitanModel-BZQASsjr.js">
+    <link rel="modulepreload" crossorigin="" href="./assets/rapier-CKC5f6tm.js">
+    <link rel="modulepreload" crossorigin="" href="./assets/frameTime-Cdh5MlCm.js">
+    <link rel="stylesheet" crossorigin="" href="./assets/game-BrhfBrrL.css">
+  </head>
+  <body>
+    <div id="app"><div class="runner-boot"><span>WINGS OF FREEDOM</span><p>Preparing your flight…</p></div><div style="visibility: hidden;"><canvas data-engine="three.js r180" width="1280" height="720" id="runner-canvas" tabindex="0" aria-label="Wings of Freedom automatic runner. Left and right to dodge, Space to vault or strike." style="display: block; width: 1280px; height: 720px;"></canvas><div class="runner-hud" data-status="ready">
+      <div class="runner-top"><div class="wordmark"><i>自由</i><span>WINGS OF FREEDOM<small>CAPTAIN LEVI · SKYRUN</small></span></div>
+      <div class="distance-stat"><span>DISTANCE</span><strong id="run-distance"><b id="run-distance-value">0</b><small> m</small></strong></div>
+      <div class="run-actions"><div id="run-hearts" aria-label="3 chances remaining"><i></i><i></i><i></i></div><button id="run-pause" aria-label="Pause run">Ⅱ</button><button id="run-mute" aria-label="Mute sound">♫</button></div></div>
+      <div class="run-score"><span>SCORE</span><strong id="run-score">0000</strong><small id="run-chain">FIND YOUR FLOW</small>
+        <div class="flow-track" id="flow-track" role="progressbar" aria-label="Flow toward an automatic speed rush" aria-valuemin="0" aria-valuemax="100" aria-valuenow="0"><i id="flow-fill"></i></div><small id="flow-label">CLEAN MOVES BUILD FLOW</small></div>
+      <div id="run-threat"><small id="threat-cue"></small><strong id="threat-name"></strong></div>
+      <div id="run-prompt"><span id="prompt-kind"></span><strong id="prompt-text"></strong>
+        <div id="strike-timing"><span id="timing-zone"></span><i id="timing-cursor"></i></div><small id="timing-help">TAP ON GOLD FOR A PERFECT CUT</small></div>
+      <div id="run-notice"><span id="notice-text"></span><strong id="notice-points"></strong></div>
+      <div class="run-bottom"><span id="run-guidance">FORWARD MOTION IS AUTOMATIC</span><div class="simple-controls"><button id="run-left" aria-label="Move left">←<small>LEFT</small></button><button id="run-action">SPACE<small>VAULT / STRIKE</small></button><button id="run-right" aria-label="Move right">→<small>RIGHT</small></button></div><span class="run-speed"><b id="run-speed">18</b> M/S</span></div>
+      <div id="run-flash"></div><div class="run-vignette"></div>
+    </div><div class="runner-overlay"><section class="flight-card"><span class="chapter">THE ROOFTOPS ARE YOURS.</span>
+      <h1>WINGS OF<br><em>FREEDOM.</em></h1>
+      <p>Dodge the rooftops. Hunt the legendary Titans.<br>Space to vault or strike. Tap on gold for a perfect cut.</p>
+      <div class="three-inputs"><span><kbd>←</kbd><kbd>→</kbd> DODGE</span><span><kbd>SPACE</kbd> VAULT / STRIKE</span></div>
+      <button id="run-start">TAKE FLIGHT <span>↗</span></button>
+      <small>AUTO-FLIGHT · NO AIMING · THREE SIMPLE INPUTS</small>
+      <a class="model-credits" href="./assets/ATTRIBUTION.md" target="_blank" rel="noopener">Character &amp; art credits</a></section>
+      <span class="scene-caption">WALL DISTRICT<br><b>THE LAST LIGHT</b></span></div><div class="soundtrack" data-game-input-ignore=""><button class="music-toggle" aria-expanded="false" aria-controls="music-panel">♫ MUSIC</button>
+      <section id="music-panel" class="music-panel" aria-label="Soundtrack" hidden="">
+        <header><strong>SOUNDTRACK</strong><button id="music-close" aria-label="Close music panel">×</button></header>
+        <p>Music starts automatically when you take flight.</p>
+        <div class="music-sources"><button id="music-files">Choose other audio files</button></div>
+        <input id="music-upload" type="file" accept="audio/*,.mp3,.m4a,.ogg,.wav,.flac,.opus" multiple="" hidden="">
+        <label class="music-queue-label">YOUR PLAYLIST<select id="music-queue" aria-label="Music playlist"><option value="0">1. Guren no Yumiya — Linked Horizon</option></select></label>
+        <div class="music-transport"><button id="music-previous" aria-label="Previous track">⏮</button><button id="music-play">Pause music</button><button id="music-next" aria-label="Next track">⏭</button></div>
+        <label class="music-volume">VOLUME <input id="music-volume" aria-label="Music volume" type="range" min="0" max="100" value="45"></label>
+        <p id="music-status" role="status">Guren no Yumiya — Linked Horizon · Ready for your next flight · Repeats from 0:20.</p>
+        <div class="music-links"><a href="https://www.youtube.com/watch?v=749DIRUHhNY" target="_blank" rel="noopener noreferrer">Guren no Yumiya ↗</a><a href="https://open.spotify.com/playlist/37i9dQZF1DWXkVfVmXHa7l" target="_blank" rel="noopener noreferrer">Attack on Titan playlist ↗</a></div>
+        <p class="music-note">Your Guren no Yumiya soundtrack is included. It starts at 0:20 and repeats from that point.</p>
+      </section><audio preload="auto" id="soundtrack-audio" hidden="" src="./assets/music/guren-no-yumiya.m4a"></audio></div><button class="fullscreen-toggle" type="button" data-game-input-ignore="" aria-keyshortcuts="F" aria-pressed="false" aria-label="Enter fullscreen" title="Fullscreen (F)"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="1.6" aria-hidden="true">
+      <path class="fullscreen-enter" d="M9 3H3v6m12-6h6v6M3 15v6h6m12-6v6h-6"></path>
+      <path class="fullscreen-exit" d="M3 9h6V3m6 0v6h6M9 21v-6H3m12 6v-6h6"></path>
+    </svg><span>FULLSCREEN</span></button><div class="fullscreen-message" role="status" hidden=""></div></div></div>
+  
+
+</body></html>
