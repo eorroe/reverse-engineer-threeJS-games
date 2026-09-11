@@ -1,0 +1,77 @@
+[
+  {
+    "content": ""
+  },
+  {
+    "name": "viewport",
+    "content": "width=device-width,initial-scale=1"
+  },
+  {
+    "name": "theme-color",
+    "content": "#163e57"
+  },
+  {
+    "name": "description",
+    "content": "Choose your fighter, drop onto the island, and survive the storm. Play solo or invite your friends to a private battle royale."
+  },
+  {
+    "name": "robots",
+    "content": "index, follow, max-image-preview:large"
+  },
+  {
+    "content": "website"
+  },
+  {
+    "content": "en_US"
+  },
+  {
+    "content": "Super Smash Royale"
+  },
+  {
+    "content": "Super Smash Royale"
+  },
+  {
+    "content": "Choose your fighter, drop onto the island, and survive the storm. Play solo or invite your friends to a private battle royale."
+  },
+  {
+    "content": "https://smashroyale.io/"
+  },
+  {
+    "content": "https://smashroyale.io/assets/social/smashroyale-island-1200x630.png"
+  },
+  {
+    "content": "https://smashroyale.io/assets/social/smashroyale-island-1200x630.png"
+  },
+  {
+    "content": "image/png"
+  },
+  {
+    "content": "1200"
+  },
+  {
+    "content": "630"
+  },
+  {
+    "content": "Super Smash Royale island with smashroyale.io across the sky."
+  },
+  {
+    "name": "twitter:card",
+    "content": "summary_large_image"
+  },
+  {
+    "name": "twitter:title",
+    "content": "Super Smash Royale"
+  },
+  {
+    "name": "twitter:description",
+    "content": "Choose your fighter, drop onto the island, and survive the storm. Play solo or invite your friends to a private battle royale."
+  },
+  {
+    "name": "twitter:image",
+    "content": "https://smashroyale.io/assets/social/smashroyale-island-1200x630.png"
+  },
+  {
+    "name": "twitter:image:alt",
+    "content": "Super Smash Royale island with smashroyale.io across the sky."
+  }
+]

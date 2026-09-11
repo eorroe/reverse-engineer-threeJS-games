@@ -1,0 +1,78 @@
+[
+  {
+    "rel": "canonical",
+    "href": "https://smashroyale.io/"
+  },
+  {
+    "rel": "icon",
+    "href": "https://smashroyale.io/favicon.ico"
+  },
+  {
+    "rel": "icon",
+    "href": "https://smashroyale.io/assets/icons/favicon-16x16.png"
+  },
+  {
+    "rel": "icon",
+    "href": "https://smashroyale.io/assets/icons/favicon-32x32.png"
+  },
+  {
+    "rel": "icon",
+    "href": "https://smashroyale.io/assets/icons/favicon-48x48.png"
+  },
+  {
+    "rel": "icon",
+    "href": "https://smashroyale.io/assets/icons/icon-192x192.png"
+  },
+  {
+    "rel": "apple-touch-icon",
+    "href": "https://smashroyale.io/apple-touch-icon.png"
+  },
+  {
+    "rel": "apple-touch-icon",
+    "href": "https://smashroyale.io/assets/icons/apple-touch-icon-167x167.png"
+  },
+  {
+    "rel": "apple-touch-icon",
+    "href": "https://smashroyale.io/assets/icons/apple-touch-icon-152x152.png"
+  },
+  {
+    "rel": "manifest",
+    "href": "https://smashroyale.io/site.webmanifest"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/style.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/combat-reticle.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/combat-hud.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/controller.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/approved-film.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/typography.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/device-gallery.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/private-lobby.css"
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://smashroyale.io/replay.css"
+  }
+]

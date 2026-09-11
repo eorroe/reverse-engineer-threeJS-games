@@ -1,0 +1,10 @@
+[
+  {
+    "src": null,
+    "text": "{\"imports\":{\"three\":\"./vendor/three.module.js\"}}"
+  },
+  {
+    "src": "https://smashroyale.io/js/device-entry.js",
+    "text": null
+  }
+]

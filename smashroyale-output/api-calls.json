@@ -1,0 +1,26 @@
+[
+  {
+    "url": "https://smashroyale.io/api/analytics",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://smashroyale.io/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0"
+    }
+  },
+  {
+    "url": "https://smashroyale.io/api/analytics",
+    "method": "POST",
+    "headers": {
+      "sec-ch-ua-platform": "\"Linux\"",
+      "referer": "https://smashroyale.io/",
+      "user-agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) HeadlessChrome/153.0.8010.12 Safari/537.36",
+      "sec-ch-ua": "\"HeadlessChrome\";v=\"153\", \"Not_A Brand\";v=\"8\", \"Chromium\";v=\"153\"",
+      "content-type": "application/json",
+      "sec-ch-ua-mobile": "?0"
+    }
+  }
+]
