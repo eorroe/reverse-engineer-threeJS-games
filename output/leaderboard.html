@@ -1,0 +1,60 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, viewport-fit=cover" />
+  <meta name="theme-color" content="#e8ead8" />
+  <title>PaperRoute · The league table</title>
+  <meta name="description" content="Paper rounds in Cedar Hollow, ranked by points and riding time." />
+  <meta property="og:title" content="PaperRoute · The league table" />
+  <meta property="og:description" content="Paper rounds in Cedar Hollow, ranked by points and riding time." />
+  <meta property="og:image" content="https://www.paperroute.lol/art/og.png" />
+  <meta property="og:url" content="https://www.paperroute.lol/leaderboard/" />
+  <meta property="og:type" content="website" />
+  <meta name="twitter:card" content="summary_large_image" />
+  <meta name="twitter:image" content="https://www.paperroute.lol/art/og.png" />
+  <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32.png" />
+  <link rel="icon" type="image/png" sizes="256x256" href="/favicon.png" />
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png" />
+  <link rel="preconnect" href="https://fonts.googleapis.com" />
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+  <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Roboto+Condensed:wght@900&display=swap" />
+  <script type="module" crossorigin src="/assets/modulepreload-polyfill-P2Xu9kJm.js"></script>
+  <script type="module" crossorigin src="/assets/leaderboard-Cu13R-JZ.js"></script>
+  <link rel="stylesheet" crossorigin href="/assets/landing-sections-C_rzM32i.css">
+</head>
+<body>
+  <main class="newspaper">
+    <header class="masthead" aria-label="The Daily Post masthead">
+      <div class="dateline dateline-top">
+        <span>VOL. 01 &nbsp; NO. 001</span>
+        <img class="plate daily-post-mark" src="/art/landing/daily-post-logo.webp" width="874" height="158" alt="The Daily Post" />
+        <span>PRICE 25¢</span>
+      </div>
+    </header>
+
+    <section class="league league-page section-rule" aria-labelledby="league-title">
+      <header class="column-heading split-heading">
+        <div><p class="eyebrow">Results service</p><h2 id="league-title">The league table</h2></div>
+        <span>Seven mornings</span>
+      </header>
+      <p class="body-copy">Every attempt, ranked by points then riding time. X handles are supplied by players and are not verified.</p>
+      <div class="league-head" aria-hidden="true"><span>No.</span><span>Carrier</span><span>Points</span><span>Grade</span><span>Days / time</span></div>
+      <ol class="league-table" data-leaderboard data-limit="100" aria-label="Runs ranked by points and riding time"></ol>
+      <p class="league-demo-note">Includes synthetic launch scores. Can you beat them?</p>
+    </section>
+    <section id="entry-privacy" class="section-rule" aria-labelledby="entry-privacy-title">
+      <h2 id="entry-privacy-title">About your entry</h2>
+      <p class="body-copy">PaperRoute collects your email and X username when you join. Your username, run scores, riding times, grades and days reached are public. Your email stays in our private Supabase database and is never returned by the leaderboard. Joining does not subscribe you to marketing emails.</p>
+      <p class="body-copy">This browser remembers your entry so future runs can improve your score. Clearing browser storage or changing devices creates a new entry. We do not verify ownership of emails or X accounts yet.</p>
+    </section>
+
+    <footer class="footer-rule">
+      <span><a href="/">Back to the front page</a></span>
+      <strong><a href="/play/">Ride your own week</a></strong>
+      <span>The Daily Post</span>
+      <p class="footer-credit">Game and website made with Graft by <a href="https://x.com/BuiltBySketch" rel="me noopener" target="_blank">BuiltBySketch</a> + GPT Astra<a href="https://x.com/BuiltBySketch" aria-label="BuiltBySketch on X" rel="me noopener" target="_blank"><svg viewBox="0 0 24 24" aria-hidden="true" focusable="false"><path d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24H16.17l-5.214-6.817L4.99 21.75H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231zm-1.161 17.52h1.833L7.084 4.126H5.117z"/></svg></a></p>
+    </footer>
+  </main>
+</body>
+</html>

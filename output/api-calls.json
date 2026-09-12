@@ -1,0 +1,117 @@
+[
+  {
+    "url": "https://www.paperroute.lol/",
+    "method": "GET",
+    "resourceType": "document"
+  },
+  {
+    "url": "https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;700&family=Roboto+Condensed:wght@900&display=swap",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/modulepreload-polyfill-P2Xu9kJm.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/leaderboard-Cu13R-JZ.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/landing-sections-C_rzM32i.css",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/daily-post-logo.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/paperroute-logo.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/paperboy-hero.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/paperboy-riding.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/hazard-dog.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/hazard-radar.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/hazard-obstacles.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/papers.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/paper-texture.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/robotocondensed/v31/ieVo2ZhZI2eCN5jzbjEETS9weq8-_d6T_POl0fRJeyUbpcBO5Xw.woff2",
+    "method": "GET",
+    "resourceType": "font"
+  },
+  {
+    "url": "https://fonts.gstatic.com/s/librebaskerville/v24/kmKnZrc3Hgbbcjq75U4uslyuy4kn0qNZaxM.woff2",
+    "method": "GET",
+    "resourceType": "font"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/gallery/intro-newspaper.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/gallery/window-smash.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/gallery/delivery.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/gallery/dog-chase.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/gallery/results-newspaper.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/landing/gallery/phone-landscape.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/api/leaderboard?version=2",
+    "method": "GET",
+    "resourceType": "fetch"
+  }
+]

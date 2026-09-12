@@ -1,0 +1,162 @@
+[
+  {
+    "url": "https://www.paperroute.lol/play/",
+    "method": "GET",
+    "resourceType": "document"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/brand/paperroute.svg",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/game-C9dDNpKV.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/modulepreload-polyfill-P2Xu9kJm.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/title-bootstrap-D2drVO23.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/game-0xTyVm-o.css",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/brand/intro-street.jpg",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/karla-latin-700-normal-DFuMffT3.woff2",
+    "method": "GET",
+    "resourceType": "font"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/main-BvT_ToLo.js",
+    "method": "GET",
+    "resourceType": "script"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/main-CDc9QG8g.css",
+    "method": "GET",
+    "resourceType": "stylesheet"
+  },
+  {
+    "url": "https://www.paperroute.lol/assets/roboto-condensed-latin-900-normal-CKoP0DhX.woff2",
+    "method": "GET",
+    "resourceType": "font"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/playable-houses.glb",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/playable-dog.glb",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/joyful-pilot.glb",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/grumpy-newsman.glb",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/posed-rider.glb",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/painted-foliage.png",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/illustrated-summer/summer-sky.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/summer-town.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/newspapers/brief-square.webp",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "https://www.paperroute.lol/art/lookdev/gouache-atlas.png",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/c4b28f81-79c0-41ff-a94f-315d67ede8ab",
+    "method": "GET",
+    "resourceType": "image"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/26a98d13-0469-4c84-94fd-c368d2cca472",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/2410dd1c-59c5-4741-9294-fceae046b09d",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/db0b1c57-f37e-411e-8fd6-9e6d7dd41fce",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/0de5b176-9be7-4376-8f8c-c844876ac885",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/72da5c98-a0f4-4f81-805c-614c77bcad04",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/f9685b10-8933-4f72-863b-f058fa9adc60",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/24ffcf9f-9ef8-4fc9-a07d-3f067ff37c83",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/8b994a3f-31bf-4c2d-92dc-2c72039c3f51",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/9966b733-655b-45d3-b544-d611c277ec15",
+    "method": "GET",
+    "resourceType": "fetch"
+  },
+  {
+    "url": "blob:https://www.paperroute.lol/688f6344-6cb1-4405-802f-a4e55c26fe9a",
+    "method": "GET",
+    "resourceType": "fetch"
+  }
+]
