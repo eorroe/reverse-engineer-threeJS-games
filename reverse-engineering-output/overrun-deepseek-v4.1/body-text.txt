@@ -1,0 +1,29 @@
+HOSTILES
+0
+WAVE
+1
+SCORE
+0
+—
+30
+/ 240
+Integrity
+100
+Plate
+OVERRUN
+Sector 7 — Containment Failed
+DEPLOY
+WASDMove
+MOUSEAim
+LMBFire
+RMBAim Down Sight
+SHIFTSprint
+CTRL/CCrouch
+SPACEJump
+RReload
+1 2 3Weapons
+QQuick Swap
+FMelee
+ESCPause
+Headphones recommended · Click to lock mouse
+Loading

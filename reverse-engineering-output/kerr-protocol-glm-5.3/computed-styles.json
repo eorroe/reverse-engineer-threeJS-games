@@ -1,0 +1,26 @@
+{
+  "body": {
+    "display": "block",
+    "position": "static",
+    "width": "1280px",
+    "height": "720px",
+    "backgroundColor": "rgb(0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "hidden",
+    "visibility": "visible"
+  },
+  "gl": {
+    "display": "block",
+    "position": "fixed",
+    "width": "1280px",
+    "height": "720px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "clip",
+    "visibility": "visible"
+  }
+}

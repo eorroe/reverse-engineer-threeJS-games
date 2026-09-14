@@ -1,0 +1,14 @@
+[
+  {
+    "src": null,
+    "text": "\n  {\n    \"imports\": {\n      \"three\": \"https://unpkg.com/three@0.160.0/build/three.module.js\",\n      \"three/addons/\": \"https://unpkg.com/three@0.160.0/examples/jsm/\"\n    }\n  }\n  ",
+    "id": null,
+    "type": "importmap"
+  },
+  {
+    "src": "file:///tmp/bench-portal/games/highrise-protocol-qwen3.8-27b/js/main.js",
+    "text": null,
+    "id": null,
+    "type": "module"
+  }
+]

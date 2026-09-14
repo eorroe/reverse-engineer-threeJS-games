@@ -1,0 +1,14 @@
+[
+  {
+    "src": null,
+    "text": "\n{\n  \"imports\": {\n    \"three\": \"https://cdn.jsdelivr.net/npm/three@0.170.0/build/three.module.js\",\n    \"three/addons/\": \"https://cdn.jsdelivr.net/npm/three@0.170.0/examples/jsm/\"\n  }\n}\n",
+    "id": null,
+    "type": "importmap"
+  },
+  {
+    "src": "file:///tmp/bench-portal/games/highrise-protocol-qwen3.8-flash-next/src/main.js",
+    "text": null,
+    "id": null,
+    "type": "module"
+  }
+]

@@ -1,0 +1,38 @@
+{
+  "body": {
+    "display": "block",
+    "position": "static",
+    "width": "1280px",
+    "height": "698.984px",
+    "backgroundColor": "rgb(4, 1, 17)",
+    "color": "rgb(207, 211, 255)",
+    "fontFamily": "\"Courier New\", Courier, monospace",
+    "zIndex": "auto",
+    "overflow": "hidden auto",
+    "visibility": "visible"
+  },
+  "gl": {
+    "display": "block",
+    "position": "static",
+    "width": "744.438px",
+    "height": "416.984px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(207, 211, 255)",
+    "fontFamily": "\"Courier New\", Courier, monospace",
+    "zIndex": "auto",
+    "overflow": "clip",
+    "visibility": "visible"
+  },
+  "canvas": {
+    "display": "block",
+    "position": "static",
+    "width": "36px",
+    "height": "36px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(207, 211, 255)",
+    "fontFamily": "\"Courier New\", Courier, monospace",
+    "zIndex": "auto",
+    "overflow": "clip",
+    "visibility": "visible"
+  }
+}

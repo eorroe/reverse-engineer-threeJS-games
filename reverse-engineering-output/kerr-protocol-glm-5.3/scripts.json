@@ -1,0 +1,14 @@
+[
+  {
+    "src": "file:///tmp/bench-portal/games/kerr-protocol-glm-5.3/src/main.js",
+    "text": null,
+    "id": null,
+    "type": "module"
+  },
+  {
+    "src": null,
+    "text": "\n  if (new URLSearchParams(location.search).has('demo')) {\n    addEventListener('load', () => setTimeout(() => import('./src/demo.js'), 600));\n  }\n",
+    "id": null,
+    "type": "module"
+  }
+]

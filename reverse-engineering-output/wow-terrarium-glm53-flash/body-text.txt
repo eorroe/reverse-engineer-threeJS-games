@@ -1,0 +1,27 @@
+GROWING TERRARIUM
+TERRARIUM
+
+No 11 — a sealed little world, grown entirely from code
+
+-- fps
+DAY
+RAIN
+drag · orbit
+/
+scroll or pinch · zoom
+/
+tap the glass · knock
+SPACE
+rain
+N
+day / night
+T
+cycle
+C
+drift
+G
+glass
+R
+view
+H
+help

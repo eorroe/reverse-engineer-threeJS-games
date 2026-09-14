@@ -1,5 +1,26 @@
 {
   "dependencies": {
     "playwright": "^1.63.0"
-  }
+  },
+  "name": "agent_dce9e604-8569-42ff-ad05-a035759f95a6",
+  "version": "1.0.0",
+  "description": "",
+  "main": "savannah-beautified.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/eorroe/reverse-engineer-threeJS-games.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/eorroe/reverse-engineer-threeJS-games/issues"
+  },
+  "homepage": "https://github.com/eorroe/reverse-engineer-threeJS-games#readme"
 }

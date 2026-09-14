@@ -1,0 +1,11 @@
+{
+  "totalRequests": 3,
+  "uniqueDomains": [
+    ""
+  ],
+  "requestsByType": {
+    "document": 1,
+    "stylesheet": 1,
+    "script": 1
+  }
+}

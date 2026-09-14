@@ -1,0 +1,14 @@
+[
+  {
+    "rel": "icon",
+    "href": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><circle cx='16' cy='16' r='6' fill='%233987e5'/><circle cx='16' cy='16' r='13' fill='none' stroke='%233987e5' stroke-opacity='.35'/><circle cx='24' cy='9' r='2' fill='%23d55181'/></svg>",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "file:///tmp/bench-portal/games/ox-alpha/assets/index-CUPfxBEa.css",
+    "type": "",
+    "media": ""
+  }
+]

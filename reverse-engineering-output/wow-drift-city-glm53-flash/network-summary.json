@@ -1,0 +1,11 @@
+{
+  "totalRequests": 6,
+  "uniqueDomains": [
+    "",
+    "cdn.jsdelivr.net"
+  ],
+  "requestsByType": {
+    "document": 1,
+    "script": 5
+  }
+}

@@ -1,0 +1,50 @@
+{
+  "body": {
+    "display": "block",
+    "position": "static",
+    "width": "1264px",
+    "height": "524.875px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "visible",
+    "visibility": "visible"
+  },
+  "game": {
+    "display": "inline",
+    "position": "static",
+    "width": "300px",
+    "height": "150px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "clip",
+    "visibility": "visible"
+  },
+  "hud": {
+    "display": "block",
+    "position": "static",
+    "width": "1264px",
+    "height": "162px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "visible",
+    "visibility": "visible"
+  },
+  "menu": {
+    "display": "block",
+    "position": "static",
+    "width": "1264px",
+    "height": "208.875px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "visible",
+    "visibility": "visible"
+  }
+}

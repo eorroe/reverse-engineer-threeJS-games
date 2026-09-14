@@ -1,0 +1,38 @@
+{
+  "body": {
+    "display": "block",
+    "position": "static",
+    "width": "1264px",
+    "height": "2576.45px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "visible",
+    "visibility": "visible"
+  },
+  "game": {
+    "display": "inline",
+    "position": "static",
+    "width": "300px",
+    "height": "150px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "clip",
+    "visibility": "visible"
+  },
+  "minimap": {
+    "display": "inline",
+    "position": "static",
+    "width": "200px",
+    "height": "130px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "clip",
+    "visibility": "visible"
+  }
+}

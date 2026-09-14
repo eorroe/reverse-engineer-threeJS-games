@@ -1,0 +1,17 @@
+VITALS
+WAVE1
+HOSTILES0
+KILLS0
+VK-7 ASSAULT RIFLE
+30 / 120
+1 2 3
+AUTO
+0
+ARENA PROTOCOL // SECTOR 7
+ONSLAUGHT
+HOLD THE LINE AGAINST THE SWARM
+DEPLOY
+WASD move  ·  SHIFT sprint  ·  SPACE jump  ·  C slide / crouch
+LMB fire  ·  RMB aim down sights  ·  R reload  ·  1 2 3 / WHEEL weapons
+[ ] sensitivity  ·  M music  ·  ESC pause
+THREE.JS · WEBGL2 · CUSTOM GLSL PIPELINE · PROCEDURAL AUDIO

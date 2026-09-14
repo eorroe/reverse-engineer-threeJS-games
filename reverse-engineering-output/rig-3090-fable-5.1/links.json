@@ -1,0 +1,32 @@
+[
+  {
+    "rel": "preconnect",
+    "href": "https://fonts.googleapis.com/",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "preconnect",
+    "href": "https://fonts.gstatic.com/",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://fonts.googleapis.com/css2?family=Unbounded:wght@300;500;700&family=Manrope:wght@300;400;600&display=swap",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "icon",
+    "href": "data:,",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "file:///tmp/bench-portal/games/rig-3090-fable-5.1/style.css",
+    "type": "",
+    "media": ""
+  }
+]

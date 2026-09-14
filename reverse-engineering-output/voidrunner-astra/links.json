@@ -1,0 +1,32 @@
+[
+  {
+    "rel": "icon",
+    "href": "file:///tmp/bench-portal/games/voidrunner-astra/favicon.svg",
+    "type": "image/svg+xml",
+    "media": ""
+  },
+  {
+    "rel": "preconnect",
+    "href": "https://fonts.googleapis.com/",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "preconnect",
+    "href": "https://fonts.gstatic.com/",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@500;600;700;800;900&family=Barlow:wght@400;500;600;700;800&family=IBM+Plex+Mono:wght@400;500;600&display=swap",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "file:///tmp/bench-portal/games/voidrunner-astra/assets/index-COtHzPQG.css",
+    "type": "",
+    "media": ""
+  }
+]

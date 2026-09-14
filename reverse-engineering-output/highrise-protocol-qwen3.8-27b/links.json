@@ -1,0 +1,14 @@
+[
+  {
+    "rel": "icon",
+    "href": "data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'%3E%3Crect width='32' height='32' fill='%230a0c10'/%3E%3Crect x='8' y='4' width='16' height='24' fill='%23ff5a2c'/%3E%3Crect x='12' y='8' width='8' height='4' fill='%230a0c10'/%3E%3C/svg%3E",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "file:///tmp/bench-portal/games/highrise-protocol-qwen3.8-27b/css/style.css",
+    "type": "",
+    "media": ""
+  }
+]

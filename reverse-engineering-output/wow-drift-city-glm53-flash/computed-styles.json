@@ -1,0 +1,14 @@
+{
+  "body": {
+    "display": "block",
+    "position": "static",
+    "width": "1280px",
+    "height": "720px",
+    "backgroundColor": "rgb(4, 6, 11)",
+    "color": "rgb(207, 230, 245)",
+    "fontFamily": "\"Segoe UI\", system-ui, -apple-system, sans-serif",
+    "zIndex": "auto",
+    "overflow": "hidden",
+    "visibility": "visible"
+  }
+}

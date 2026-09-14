@@ -1,0 +1,11 @@
+HIGHRISE PROTOCOL
+
+Wave survival on an unfinished top floor. Gunfeel is the whole game.
+
+START
+GOD MODE: OFF
+HUD: ON
+WASD move   Mouse aim   LMB fire   RMB ADS
+Shift sprint / 2×Shift tac-sprint   Ctrl slide (sprinting) / crouch
+Space jump / mantle   Q / E lean   R reload   I inspect
+T aim self-test   ` debug   Esc pause

@@ -1,0 +1,17 @@
+DRIFT CITY
+NIGHT CIRCUIT
+0
+BEST 0
+0
+KM/H
+HOLD SPACE TO DRIFT  ·  SHIFT FOR NITRO
+W / ↑ throttle
+S / ↓ brake · reverse
+A D / ← → steer
+SPACE handbrake — drift
+SHIFT nitro (charged by drifting)
+DRAG look · WHEEL zoom
+C camera · R reset · M sound · P pause · H hide UI
+DRIFT CITY
+
+NEON · RAIN-SHINE · MIDNIGHT

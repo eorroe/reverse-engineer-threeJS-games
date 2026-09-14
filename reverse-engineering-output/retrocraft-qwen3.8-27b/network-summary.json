@@ -1,0 +1,9 @@
+{
+  "totalRequests": 1,
+  "uniqueDomains": [
+    ""
+  ],
+  "requestsByType": {
+    "document": 1
+  }
+}

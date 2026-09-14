@@ -1,0 +1,26 @@
+[
+  {
+    "rel": "preconnect",
+    "href": "https://fonts.googleapis.com/",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "preconnect",
+    "href": "https://fonts.gstatic.com/",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "https://fonts.googleapis.com/css2?family=Rajdhani:wght@500;600;700&family=Orbitron:wght@600;800;900&display=swap",
+    "type": "",
+    "media": ""
+  },
+  {
+    "rel": "stylesheet",
+    "href": "file:///tmp/bench-portal/games/onslaught-fable-5.1/assets/index-AaIZvbbG.css",
+    "type": "",
+    "media": ""
+  }
+]

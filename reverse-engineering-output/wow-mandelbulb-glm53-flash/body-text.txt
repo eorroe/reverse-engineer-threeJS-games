@@ -1,0 +1,9 @@
+MANDELBULB
+distance-field raymarch · temporal accumulation
+-- FPS
+--%
+-- SPP
+SOLAR
+p 8.0
+MED
+drag orbit · wheel zoom · dblclick dive · H help

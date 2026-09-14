@@ -1,0 +1,12 @@
+{
+  "totalRequests": 4,
+  "uniqueDomains": [
+    "",
+    "fonts.googleapis.com"
+  ],
+  "requestsByType": {
+    "document": 1,
+    "stylesheet": 2,
+    "script": 1
+  }
+}

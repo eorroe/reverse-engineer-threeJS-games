@@ -1,0 +1,14 @@
+{
+  "body": {
+    "display": "block",
+    "position": "static",
+    "width": "1264px",
+    "height": "0px",
+    "backgroundColor": "rgba(0, 0, 0, 0)",
+    "color": "rgb(0, 0, 0)",
+    "fontFamily": "\"Times New Roman\"",
+    "zIndex": "auto",
+    "overflow": "visible",
+    "visibility": "visible"
+  }
+}
