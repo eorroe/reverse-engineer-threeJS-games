@@ -1,7 +1,48 @@
-# rig-3090-astra
+# Rig 3090 Astra
 
-- **Model:** GPT-6 Astra
-- **Tech:** Three.js bundled, scroll-driven animation
-- **File Structure:** `index.html`, `assets/index-BET7dU4y.js` (4323 lines) — bundled Three.js + game code. `models/rig.glb` — Blender photo reconstruction (328K triangles, 2505 source objects). `models/provenance.json` — part metadata (vertices, triangles, centers, dimensions).
-- **Key Details:** Scroll-driven 3D presentation of a real 4x RTX 3090 rig. 22 movable component groups extracted from Blender scene: GPUs, cooling, motherboard, PSUs, cables, hand-built supports. Chapter-based narrative: System → Graphics → Cooling → Foundation → Power → Together. Scroll position drives camera animation between predefined keyframes with cubic Hermite interpolation. Reverse scroll reverses animation. Material cloning for opacity/color animation during transitions (parts fade in/out, scale, rotate). Responsive: mobile gets simplified camera, reduced motion respected.
-- **Notable Patterns:** `Gd(ae)` function generates 9 keyframe chapters from component rest poses. `Kd(oe, t)` interpolates between keyframe pairs with smoothstep. `ge(a)` applies per-frame animation: position lerp, quaternion slerp, scale lerp, material opacity/color/emissive animation. `ve(e)` main loop with scroll progress `o`, damped to target, render when settled. Part-specific animations: GPU cards fan rotation, cable opacity fades, LED intensity changes. Loading screen with progress bar and percentage; retry on error. Source: `RIG_4x_RTX3090.blend` with 2505 copied objects, 328,604 triangles. GPU cards arranged in custom positions (3 on top, 1 on side) with individual rotations. Each part has `rest` position, animated `position`, `rotation`, `scale`, `opacity`. Environment map generated from scene for realistic reflections. Shadow map 2048×2048 with PCF; ACES tone mapping. Chapter navigation buttons + scroll wheel + vertical index indicator.
+## Reverse Engineering Report
+
+**Classification:** Static SPA / 3D Product Viewer (Bundled Obfuscated)
+
+### Extraction Summary
+- **Source:** `/tmp/bench-portal/games/rig-3090-astra/`
+- **HTML Size:** 760 bytes
+- **Total JS:** 0 chars captured (bundled external)
+- **WebGL:** Not detected (context loss in headless)
+- **Network:** 3 local requests
+
+### HTML Structure
+- Minimal: `<div id="root"></div>` only
+- Noscript fallback: "Enable JavaScript to explore the interactive 3D presentation."
+- Module script `assets/index-BET7dU4y.js` + stylesheet `assets/index-0T1VpPDi.css`
+
+### JavaScript Architecture
+- **Bundled single file**: `assets/index-BET7dU4y.js` (854,831 chars, 4323 lines)
+- **Minified**: class names `e`, `e`, `e`, `e`, `e`
+- Three.js library inlined + game code appended
+- 76 `THREE.*` references, 242 shader strings
+- Module scope encapsulation
+
+### Rendering Pipeline
+- WebGL info: **null** — renderer state not captured
+- No exposed globals, no game state
+- Likely a Three.js or React-Three-Fiber product configurator
+
+### Data Models & Storage
+- Empty state `{}`
+
+### Network / Assets
+- 3 local requests: document, JS bundle, CSS bundle
+- Favicon SVG present
+- No external CDN calls
+
+### Notable Implementation Details
+- Product showcase / PC building configurator
+- "Four RTX 3090s" — extreme hardware visualization
+- Character presence suggests interactive 3D avatar or technician guide
+- 673-object Blender reconstruction
+- Scroll-driven chapter-based narrative
+
+### Security / Obfuscation Observations
+- Bundled module, source unavailable in extraction
+- No further analysis possible without JS source

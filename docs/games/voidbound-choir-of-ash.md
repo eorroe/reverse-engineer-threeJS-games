@@ -1,8 +1,63 @@
-# voidbound-choir-of-ash
+# Voidbound Choir of Ash
 
-- **Model:** Astra
-- **Tech:** Three.js + GLSL, skeletal animation with keyframed poses
-- **File Structure:** `index.html` (4.6 KB), `assets/index-qInzopzo.js` (109 KB) — game logic, `assets/three-DSF9mCzu.js` (524 KB) — three + deps, `assets/index-CNBJs4_G.css` (10.6 KB)
-- **Key Details:** Third-person hack-and-slash inside a cathedral built from star-eater bones. Complex animation system with keyframed skeletal poses for: `death`, `light0`/`light1`/`light2` (light attack variants), `heavy`, `magic`, `dodge`. Combo/style system with rank progression (D → S) and style meter that drains over time. Phase dodge (Space) with invincibility frames and camera tilt. Void magic (Q/L) with cooldown and mana cost; mana restores on kill. Endless descent wave system; `wave-label` updates between waves. World-space enemy health bars and telegraph indicators.
-- **Game Mechanics:** LMB/J = REND (light sword combo, chained). RMB/K = SUNDER (crushing heavy strike). Q/L = OBLIVION (void magic). Space = PHASE dodge. Essence/mana restores on kill. Health/mana UI with lagged health-fill. Third-person camera follows player with spring-damper smoothing.
-- **Notable Patterns:** Pose keyframes stored as arrays of `{t, ...jointTransforms}` objects; interpolation uses `smoothstep` and `lerp`. Enemy `speed` is spring-damped toward target speed; motion-based hit detection uses velocity magnitude. `style-track` CSS div is width-animated by JS based on combo timer. Bundled Three.js is a custom build, not the standard CDN module.
+## Reverse Engineering Report
+
+**Classification:** Dynamic SPA / Third-Person Melee Action (Bundled Obfuscated)
+
+### Extraction Summary
+- **Source:** `/tmp/bench-portal/games/voidbound-choir-of-ash/`
+- **HTML Size:** 4,592 bytes
+- **Total JS:** 0 chars captured (bundled external)
+- **WebGL:** WebGL2 (SwiftShader)
+- **Network:** 4 requests (document + 2 scripts + 1 stylesheet)
+
+### HTML Structure
+- Single `<canvas id="game">` with vignette, damage-flash, grain overlays
+- `header` with brand, chapter/status, sound/pause controls
+- `main#intro` with eyebrow, h1, p, start button
+- `aside#location` with vertical rule, coordinates
+- `div#hud.hidden` with vitals, style/combo, abilities (Rend, Sunder, Oblivion, Phase), wave progress
+- `#announcement`, `#hit-label`, `#crosshair`
+- `footer` with controls hint
+- `#pause-screen`, `#death-screen`, `#loading`
+
+### JavaScript Architecture
+- **Bundled**: `index-qInzopzo.js` with preload of `three-DSF9mCzu.js`
+- **Minified**: class names `Ys`, `ra`, `ct`, `ua`, `xi`
+- Third-person melee combat system
+- Abilities: light combo (J/LMB), heavy (K/RMB), magic (Q/L), dodge (Space/Shift)
+- Style/combo meter system
+
+### Rendering Pipeline
+- WebGL2 required
+- No post-processing details in extraction
+- Custom combat state machine
+
+### Internal APIs / Engine Usage
+- Three.js bundled as separate chunk (`three-DSF9mCzu.js`)
+- Custom combat state machine
+- Kill-based essence restoration
+- Pose keyframes stored as arrays of `{t, ...jointTransforms}` objects
+- Interpolation uses `smoothstep` and `lerp`
+
+### Data Models & Storage
+- Game state not captured
+- No localStorage evident
+
+### Network / Assets
+- 4 requests: document, 2 scripts (index + three preload), 1 stylesheet
+- Self-hosted assets
+
+### Notable Implementation Details
+- **"Symphony of violence"** melee system with no two swings alike
+- **Third-person camera** follows player with spring-damper smoothing
+- **Mana/essence system** with kill restoration
+- **Rank system** (D → Awaken)
+- **Wave-based progression**: "The Choir"
+- **Phase dodge** (Space) with invincibility frames and camera tilt
+- **Void magic** (Q/L) with cooldown and mana cost
+- **Combo/style meter** that drains over time
+
+### Security / Obfuscation Observations
+- Bundled with hashed filenames (minified/obfuscated)
+- Three.js vendored as separate chunk rather than CDN

@@ -1,10 +1,55 @@
-# whiteout-protocol-glm-5.3
+# Whiteout Protocol GLM-5.3
 
-- **Model:** GLM-5.3
-- **Tech:** Vite + npm (real project, multi-file), Three.js (pinned) + official addons from `node_modules`, modular architecture, GLSL custom shaders (aurora, snow sparkle, tracers, heat shimmer, ice translucency)
-- **File Structure:** `index.html` (572 B) mounts `#app`. `assets/index-BXZlDR_8.js` (804 KB) is the bundled production build. `prompt.md` (26 KB) is the full engineering spec.
-- **Key Details:** Arctic CoD-style wave-survival FPS at an arctic research station, deep dusk. Agentic build: GLM-5.3 built this autonomously in Claude Code over 9.8 hours and 2130 tool calls. The model has no vision, so it reviewed its own screenshots through an outside vision model. Raymarched aurora borealis (layered ribbon curtains, smooth gradients). Pump-action shotgun with solved iron-sight ADS. Blood on snow, exploding fuel drums (fireball + shockwave + physics impulse + scorch marks + white flash). Wave survival with spawning logic. `0xC0DA` PRNG ensures two runs produce identical spawn patterns for benchmarking/replay.
-- **Game Mechanics:** Pointer lock mouse look, WASD movement. Sprint (Shift) → tac-sprint (double-tap Shift), sprint-slide (Ctrl), crouch (hold Ctrl), lean Q/E, mantle (Space at obstacle). Full-auto rifle, ~700 RPM, 30-round magazine, infinite reserve ammo. Weapon kick, screen reaction, bullet-landing feedback (light, particles, blood, flinch, sound, numbers). Fuel drums explode on shot with fireball, shockwave, ragdoll impulse, and 1–2 frame white flash.
-- **Notable Patterns:** Quality presets (low/med/high/ultra) that cleanly disable post-processing and particle caps to maintain 60 FPS. GPU-instanced particles with pooling and caps (blowing snow, muzzle smoke, impact powder, sparks, blood mist, explosion debris). Every animation uses proper easing or spring-damper; no linear lerp visible.
+## Reverse Engineering Report
 
-## Action / Arcade
+**Classification:** Dynamic SPA / FPS (Bundled Obfuscated)
+
+### Extraction Summary
+- **Source:** `/tmp/bench-portal/games/whiteout-protocol-glm-5.3/`
+- **HTML Size:** 567 bytes
+- **Total JS:** 0 chars captured (bundled external)
+- **WebGL:** Not detected (context loss in headless)
+- **Network:** 2 local requests
+
+### HTML Structure
+- Extremely minimal: just `<div id="app"></div>`
+- Everything rendered dynamically by JS
+- Title: WHITEOUT PROTOCOL
+
+### CSS / Styling
+- Inline minimal CSS: `html, body { margin: 0; padding: 0; overflow: hidden; background: #06080f; height: 100%; }`
+- `#app` is full viewport
+- Canvas is `display: block`
+
+### JavaScript Architecture
+- **Single bundled script**: `index-BXZlDR_8.js` (804,143 chars, 5473 lines)
+- **Minified**: class names `xn`, `Qo`, `xe`, `jo`, `tl`
+- No external dependencies visible
+- App container `#app` — likely React/Vue/Svelte or custom framework
+
+### Rendering Pipeline
+- WebGL info is `null` (not captured)
+- Likely full-screen canvas injected into `#app`
+
+### Internal APIs / Engine Usage
+- Unknown — bundled code not inspectable
+- FPS inferred from title and GLM 5.3 context
+
+### Data Models & Storage
+- Game state: `{ "app": { "keys": [], "sample": "{}" } }`
+- No localStorage evident
+
+### Network / Assets
+- 2 requests: document + 1 script
+- Fully self-contained
+
+### Notable Implementation Details
+- **GLM 5.3 model variant** — likely an LLM-generated FPS
+- Minimal DOM footprint suggests heavy use of canvas/WebGL
+- Body text is empty — all content rendered via JS
+- Agentic build: GLM-5.3 built this in Claude Code over 9.8 hours and 2130 tool calls
+- The model has no vision, so it reviewed its own screenshots through an outside vision model
+
+### Security / Obfuscation Observations
+- Single bundled file with hashed name
+- No readable source available from extraction
