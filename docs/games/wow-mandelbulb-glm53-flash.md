@@ -1,0 +1,8 @@
+# wow-mandelbulb-glm53-flash
+
+- **Model:** GLM-5.3 Flash
+- **Tech:** Three.js 0.170.0, RawShaderMaterial for direct GLSL raymarching, temporal accumulation via ping-pong framebuffer, single-file (29 KB HTML)
+- **File Structure:** `index.html` (29 KB) — entire app inline.
+- **Key Details:** Distance-field raymarcher solving the Mandelbulb fractal live in the browser. Temporal accumulation refines the frame while the fractal rotates. Custom GLSL fragment shader `MARCH_FRAG` implements the Mandelbulb distance estimator with orbit trapping. Orbit controls: drag orbit, wheel zoom, double-click dive, Space auto-orbit. Quality presets (low/med/high/ultra) control iterations and max steps. Power morphing (M key) changes the fractal exponent in real time. Multiple color palettes; silhouette glow toggle.
+- **Interaction:** None — interactive mathematical visualization/visual toy. Drag to orbit, scroll/pinch to zoom, double-click to dive closer. Power parameter adjustable with M, `[`, `]`, arrow keys. Save frame as PNG (S key).
+- **Notable Patterns:** Full-screen quad (`PlaneGeometry(2, 2)`) rendered with `depthTest: false, depthWrite: false`. Two-pass architecture: `marchMat` renders to a render target; `copyMat` blits to screen with blend. `COPY_FRAG` implements temporal accumulation: `mix(prevFrame, newFrame, uBlend)`. `hash12` / `hash13` / `vnoise` in GLSL for dithering and noise-based coloring. `BAILOUT = 2.4` for escape radius. No video file or pre-baked frames — pure mathematical computation per pixel per frame. Orbit trap coloring creates the visual bands; power morphing smoothly interpolates between fractal shapes. Performance scales with SPP (samples per pixel) via accumulation, not supersampling.

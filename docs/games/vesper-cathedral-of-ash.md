@@ -1,0 +1,8 @@
+# vesper-cathedral-of-ash
+
+- **Model:** GPT-6 Astra
+- **Tech:** Three.js + GLSL, custom GLSL shaders (bloom composite, particle shaders), procedural audio via Web Audio API
+- **File Structure:** `index.html` (6.4 KB), `armory.html` (2.2 KB) — separate 3D weapon viewer. `assets/` contains bundled JS/CSS, 6 PBR texture sets, 4 weapon GLBs + soldier GLB (~13 MB total).
+- **Key Details:** Orbital-cathedral horde shooter set in Saturn orbit, 2189 AD. Three fully 3D weapons: Revenant (assault rifle, red-dot ADS), Absolution (pump shotgun, iron sights), Last Word (marksman rifle). Each weapon has distinct spring recoil, weapon inertia, reload choreography, muzzle flash, physical casings, smoke, fragments, decals, hit reactions, and layered procedural audio. Separate viewmodel render pass for first-person weapon rendering. Enemy system: animated soldier GLB with world-space health bars, hit reactions, and flinch states. Wave system with announcements, banner transitions, and enemy count tracking. Custom bloom stack with multiple bloom factors/tints.
+- **Game Mechanics:** Endless wave survival. Score-based "Exorcism Score". Weapon switching with SVG icon cards on menu/HUD. ADS zoom levels per weapon (rifle 57°, shotgun 64°, marksman configurable). Procedural audio: per-weapon firing sounds, hit markers, near-miss sonic cracks, kill thocks, low-HP heartbeat + audio muffle.
+- **Notable Patterns:** `weaponRoots` array manages three weapon transforms with visibility toggling. Spring-damper `_` class used extensively for weapon kick, camera shake, and landing recovery. Shared `graphics-*.js` bundle suggests common bloom/particle utilities between menu and game.

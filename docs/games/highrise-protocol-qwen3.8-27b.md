@@ -1,0 +1,7 @@
+# highrise-protocol-qwen3.8-27b
+
+- **Model:** Qwen3.8-27B
+- **Tech:** Three.js r0.160 (unpkg CDN), ES modules, vanilla JS
+- **File Structure:** Modular `js/` directory with subdirectories: `systems/`, `player/`, `audio/`, `hud/`, `enemies/`, `engine/`, `effects/`
+- **Key Details:** Solved red-dot ADS — viewmodel uses named sight anchors (rearSightAnchor, frontSightAnchor, muzzleAnchor) with a mathematical ADS pose solve ensuring the reticle sits on the line of fire at any FOV. Spring-based recoil with underdamped springs for kick, pitch kick, kick up, roll with configurable zeta < 1 for overshoot. Look-lag inertia — camera leads directly, weapon trails via impulse-driven springs. Detailed AR-15 viewmodel (FDE tan polymer, M-LOK handguard, PMAG, flip sights, collimator with glass + LED dot, collapsible stock, animated bolt carrier). Environment with shootable glass and buckets; glass panes shatter into physical shards. `CFG` configuration object centralizes all tuning. `EffectsManager` coordinates blood, impacts, damage numbers, shell bounces. `CameraShake` with directional damage shake. `TimeManager` with overdrive and hit-stop time scale. `EnemyManager` with active + ragdoll lists. `RNG` with seed for deterministic replays.
+- **Game Mechanics:** Wave survival on unfinished rooftop. Combo system with OVERDRIVE at 5-chain kills. Multikill announcements (DOUBLE/TRIPLE/QUAD/RAMPAGE). Killcam on last enemy of wave. Health regeneration after delay. God mode toggle. Self-test system verifying ADS pose at multiple FOVs.

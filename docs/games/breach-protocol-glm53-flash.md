@@ -1,0 +1,8 @@
+# breach-protocol-glm53-flash
+
+- **Model:** GLM-5.3 Flash
+- **Tech:** Three.js r170, WebGL, vanilla JS (single-file 123KB HTML with embedded CSS/JS)
+- **File Structure:** Entirely self-contained in `index.html` (123KB) + `game.json`. No external dependencies beyond Three.js CDN.
+- **Key Details:** Fully procedural textures generated via Canvas2D (concrete, asphalt, road, building facades, crates, barriers, cars, street lamps). Custom HDR bloom pipeline with multiple render targets (rtScene, rtBright, rtBlurA/B, rtB2, rtBlur2A/B) and custom GLSL shaders for pre-pass, blur, and composite. `Spring` class used for weapon sway (3 axes), recoil (2 axes), camera pitch/yaw, FOV kick, and dip. GPU-shader driven particles with custom vertex/fragment shaders for sparks, puffs, and dust motes. Procedural audio via Web Audio API (`SFX` class with noise-buffer-based gunshots, enemy shots, footsteps, reload sounds, ambient city hum).
+- **Game Mechanics:** Wave-based horde survival on a dusk city map. 3 weapons: M4 (auto), M9 (semi-auto pistol), M870 pump shotgun. Front-sight ADS, TEMPO DRIVE bullet-time (hold Q), health regeneration. Attract mode that plays itself until user clicks. God mode toggle, film grain toggle. LocalStorage persistence for best score, best wave, sensitivity, god mode, CRT setting.
+- **Notable Patterns:** Single-file architecture with everything inlined. Adaptive DPR system with 4 performance levels. CRT/scanline post-FX toggle. Flickering street lamps with random drop patterns. Wet-look roughness maps for puddle reflections. Slow-mo system with charge meter and lock-out mechanic. Hit-stop and screen shake on kills. Compass HUD element.
